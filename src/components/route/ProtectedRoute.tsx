@@ -14,7 +14,7 @@ const ProtectedRoute = () => {
         return (
             <Navigate
                 replace
-                to={`/home`}
+                to={`${unAuthenticatedEntryPath}?${REDIRECT_URL_KEY}=${location.pathname}`}
             />
         )
     // }
