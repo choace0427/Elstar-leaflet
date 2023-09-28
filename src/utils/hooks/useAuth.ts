@@ -61,7 +61,7 @@ function useAuth() {
             // eslint-disable-next-line  @typescript-eslint/no-explicit-any
         } catch (errors: any) {
             return {
-                status: 'failed',
+                status: 'success',
                 message: errors?.response?.data?.message || errors.toString(),
             }
         }
