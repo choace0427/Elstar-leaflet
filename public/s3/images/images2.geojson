@@ -1,0 +1,5951 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "EPSG:3857"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0045.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:10:23",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 6351693,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3585318611111,
+          26.922420666666667,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0044.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:10:18",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 6547387,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3584411111111,
+          26.922420833333334,
+          28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0080.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:11:51",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 6552583,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35861255555555,
+          26.92249127777778,
+          28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0043.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:10:16",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 6581806,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35846141666666,
+          26.922377305555557,
+          28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0081.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:11:56",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 6694180,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35868666666666,
+          26.92248538888889,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0115.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:13:21",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 6719562,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35874944444444,
+          26.922544222222225,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0079.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:11:49",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 6839535,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35860480555554,
+          26.92246111111111,
+          28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0082.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:11:58",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 7008131,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35870516666667,
+          26.922447166666668,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0116.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:13:26",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 7024585,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35884269444443,
+          26.922547472222224,
+          26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0117.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:13:28",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 7110854,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35886166666666,
+          26.922511111111113,
+          26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0113.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:13:16",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 7261884,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35880008333332,
+          26.922453583333336,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0114.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:13:18",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 7215235,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.358774,
+          26.922498861111112,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0118.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:13:30",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 7372424,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35888766666666,
+          26.922466083333333,
+          26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0046.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:10:25",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 7349188,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35855183333332,
+          26.922381444444447,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0078.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:11:47",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 7485084,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35863097222222,
+          26.922415611111113,
+          28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0083.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:12:00",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 7685750,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35873244444444,
+          26.922401583333336,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0112.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:13:13",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 7705445,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35882583333333,
+          26.922408055555557,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0119.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:13:33",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 8098100,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35891252777778,
+          26.92242211111111,
+          26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0084.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:12:03",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 8460239,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3587573611111,
+          26.922358555555558,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0077.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:11:44",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 8709876,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35865694444443,
+          26.922369916666668,
+          28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0120.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:13:35",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 8772646,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35893974999999,
+          26.922374861111113,
+          26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0042.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:10:13",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 8852778,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35848613888888,
+          26.922333305555558,
+          28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0053.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:10:42",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 8957918,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35873180555555,
+          26.922064583333334,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0111.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:13:11",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 9216340,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35885188888888,
+          26.922361972222223,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0036.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:09:58",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 9230687,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35864177777778,
+          26.92205761111111,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0047.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:10:27",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 9191414,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35857727777777,
+          26.922337833333334,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0035.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:09:56",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 9345421,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35866722222222,
+          26.922011555555557,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0054.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:10:45",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 9399495,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35875780555556,
+          26.922018861111113,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0071.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:11:29",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 9483127,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35881144444444,
+          26.92209525,
+          28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0126.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:13:50",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 9509833,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35909466666666,
+          26.92210088888889,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0070.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:11:27",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 9566021,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3588373611111,
+          26.922049861111113,
+          28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0052.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:10:40",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 9610233,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35870602777777,
+          26.92211038888889,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0104.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:12:53",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 9601109,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35903297222222,
+          26.92203991666667,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0105.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:12:56",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 9736141,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35900758333332,
+          26.922085583333335,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0121.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:13:38",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 9806292,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3589653611111,
+          26.922329,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0090.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:12:18",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 9766484,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35891377777777,
+          26.922082305555556,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0125.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:13:48",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10040563,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35906777777777,
+          26.922148305555556,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0037.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:10:01",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10070173,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35861641666666,
+          26.922103250000003,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0091.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:12:20",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 9910837,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35893936111111,
+          26.92203638888889,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0092.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:12:23",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10059271,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35896541666666,
+          26.921990833333336,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0072.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:11:32",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10212376,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35878538888889,
+          26.922140944444447,
+          28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0069.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:11:24",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10160948,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35886288888888,
+          26.922004083333334,
+          28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0106.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:12:58",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10159648,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35898080555555,
+          26.922133472222225,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0089.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:12:15",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10094391,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35888788888889,
+          26.92212788888889,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0103.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:12:51",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10191542,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35905861111111,
+          26.921993972222225,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0027.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:09:35",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10364863,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35887363888888,
+          26.921644972222225,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0076.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:11:42",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10358806,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35868208333332,
+          26.92232388888889,
+          28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0085.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:12:05",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10324028,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35878419444444,
+          26.922311444444446,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0093.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:12:25",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10268362,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35899091666666,
+          26.921945361111113,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0055.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:10:47",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10567471,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35878369444444,
+          26.92197325,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0061.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:11:03",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10736992,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35893844444443,
+          26.92169861111111,
+          28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0062.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:11:05",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10878782,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3589725,
+          26.92167388888889,
+          28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0034.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:09:53",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10799843,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35869208333332,
+          26.921967527777777,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0048.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:10:30",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10797415,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35860294444444,
+          26.922292527777778,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0102.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:12:48",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10637773,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35908358333333,
+          26.9219505,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0107.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:13:01",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10856879,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35895502777777,
+          26.922179111111113,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0124.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:13:45",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10839267,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35904302777777,
+          26.922191833333333,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0094.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:12:28",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10827519,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35901666666666,
+          26.921899361111112,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0063.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:11:09",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11030115,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35901152777777,
+          26.921739111111112,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0068.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:11:22",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11034937,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35888852777778,
+          26.921958500000002,
+          28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0041.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:10:10",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11021575,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35851302777778,
+          26.922286055555556,
+          28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0110.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:13:08",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11056248,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35887769444444,
+          26.92231602777778,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0097.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:12:35",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10989910,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35909372222221,
+          26.92176211111111,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0099.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:12:41",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11019178,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35915627777777,
+          26.921820361111113,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0051.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:10:37",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11245756,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35868047222222,
+          26.922155833333335,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0098.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:12:37",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11306511,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35911775,
+          26.92175913888889,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0100.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:12:43",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11322092,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3591336111111,
+          26.92185988888889,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0101.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:12:46",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11396032,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35910911111111,
+          26.921905083333336,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0028.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:09:38",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11520448,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35884708333333,
+          26.92169225,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0122.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:13:40",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11425407,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35899141666665,
+          26.92228341666667,
+          26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0067.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:11:19",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11619278,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35891408333333,
+          26.92191288888889,
+          28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0096.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:12:33",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11521185,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35906794444443,
+          26.92180802777778,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0123.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:13:43",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11543703,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35901702777777,
+          26.9222375,
+          26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0088.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:12:13",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11719566,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35886188888888,
+          26.92217352777778,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0064.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:11:12",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11724437,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35899055555555,
+          26.921774916666667,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0056.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:10:50",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11771282,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3588093611111,
+          26.921927472222222,
+          28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0066.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:11:17",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11900398,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35893974999999,
+          26.921867000000002,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0060.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:11:00",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11853212,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35891266666665,
+          26.921744500000003,
+          28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0073.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:11:34",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11889466,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35875938888888,
+          26.92218666666667,
+          28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0095.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:12:30",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11943619,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35904230555555,
+          26.92185375,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0038.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:10:03",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 12102026,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35859058333332,
+          26.922148916666668,
+          28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0057.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:10:53",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 12064659,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35883522222221,
+          26.9218815,
+          28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0031.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:09:45",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 12282384,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35876997222222,
+          26.92182825,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0029.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:09:40",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 12211588,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35882161111111,
+          26.921736972222224,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0086.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:12:08",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 12301257,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35881033333332,
+          26.92226555555556,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0108.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:13:03",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 12292240,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35892905555555,
+          26.922224500000002,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0075.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:11:39",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 12315010,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35870772222222,
+          26.922278444444444,
+          28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0065.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:11:14",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 12386736,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35896513888888,
+          26.921821555555557,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0050.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:10:35",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 12356821,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3586545,
+          26.92220163888889,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0058.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:10:55",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 12439032,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35886105555555,
+          26.92183591666667,
+          28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0109.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:13:06",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 12392313,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35890333333333,
+          26.922270333333334,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0049.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:10:32",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 12576280,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3586286111111,
+          26.922247277777778,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0074.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:11:37",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 12605173,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35873333333333,
+          26.9222325,
+          28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0032.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:09:48",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 12618626,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35874366666665,
+          26.921875611111112,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0059.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:10:58",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 12647551,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35888680555556,
+          26.921790444444447,
+          28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0030.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:09:43",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 12671783,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35879625,
+          26.921782583333336,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0033.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:09:50",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 12718088,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35871780555556,
+          26.921921333333334,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0040.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:10:08",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 12924721,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35853777777777,
+          26.922242,
+          28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0087.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:12:10",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 12936700,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35883616666666,
+          26.92221952777778,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0039.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:10:05",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 13511787,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35856352777778,
+          26.922196472222222,
+          28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0127.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:13:53",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10232187,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35911899999999,
+          26.92205652777778,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0141.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:15:13",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 9991186,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35862255555556,
+          26.922005055555555,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0132.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:14:05",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10712537,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35921558333332,
+          26.92185227777778,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0128.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:13:55",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11004837,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35914575,
+          26.92200913888889,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0140.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:15:10",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10056187,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35859880555554,
+          26.922047111111112,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0131.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:14:03",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10791987,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3592233611111,
+          26.92187155555556,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0139.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:15:08",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10323076,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.358576,
+          26.92208711111111,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0130.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:14:00",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11388540,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3591978611111,
+          26.92191791666667,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0142.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:15:16",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10339845,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35865491666667,
+          26.921947722222225,
+          26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0138.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:15:05",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10699560,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35855330555555,
+          26.92212775,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0129.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:13:58",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11741810,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35917161111111,
+          26.92196288888889,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0143.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:15:19",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10577501,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35867758333333,
+          26.92190763888889,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0137.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:15:03",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11037245,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35853091666667,
+          26.922167472222224,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0136.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:15:00",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11724291,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35850844444444,
+          26.922207500000003,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0133.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:14:51",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 12298025,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35843391666666,
+          26.92234252777778,
+          28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0135.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:14:57",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 12062576,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35848608333333,
+          26.922247416666668,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0134.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:14:55",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 12259533,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35846358333333,
+          26.92228752777778,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0144.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:15:21",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11130253,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3587003611111,
+          26.92186722222222,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0193.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:17:47",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 8584882,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35871855555555,
+          26.921985777777778,
+          25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0145.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:15:24",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11741257,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35872372222222,
+          26.921825416666668,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0166.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:16:15",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10164748,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35914722222222,
+          26.92206827777778,
+          26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0167.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:16:18",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10284442,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35912508333332,
+          26.922110944444444,
+          26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0147.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:15:29",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11858204,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3587688611111,
+          26.921745416666667,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0146.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:15:26",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11836521,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35874544444444,
+          26.921787194444445,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0165.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:16:13",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10384505,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35916833333333,
+          26.922029666666667,
+          26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0194.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:17:49",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 9123756,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35869516666666,
+          26.922029861111113,
+          25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0148.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:15:31",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11837108,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35879055555554,
+          26.921707083333335,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0151.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:15:38",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11533486,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35887072222222,
+          26.92161627777778,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0149.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:15:34",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11812283,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35881316666666,
+          26.921666916666666,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0158.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:15:55",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11251648,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3591578611111,
+          26.921783555555557,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0164.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:16:10",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10682966,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35919116666666,
+          26.921987833333336,
+          26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0162.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:16:05",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10938081,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35923358333332,
+          26.921906694444445,
+          26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0168.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:16:20",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10634390,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35910308333332,
+          26.922151194444446,
+          26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0150.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:15:36",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11697957,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.358836,
+          26.92162675,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0152.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:15:41",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11780246,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35891261111111,
+          26.92164288888889,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0159.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:15:58",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11255932,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35920169444444,
+          26.921808944444447,
+          26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0157.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:15:53",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11365211,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35911719444444,
+          26.921760000000003,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0179.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:16:48",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10216652,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35884433333332,
+          26.922586666666668,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0156.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:15:50",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11632946,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3590731111111,
+          26.92173452777778,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0163.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:16:08",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10883259,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3592125,
+          26.9219475,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0198.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:18:02",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 9462616,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35872175,
+          26.922147694444444,
+          24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0161.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:16:03",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11394734,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35925713888888,
+          26.921866166666668,
+          26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0153.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:15:43",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11841682,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35895525,
+          26.921666444444444,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0181.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:16:53",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10481545,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35874836111111,
+          26.922546833333335,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0160.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:16:00",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11418149,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35924363888888,
+          26.921833444444445,
+          26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0178.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:16:45",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10410210,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.358882,
+          26.92256088888889,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0180.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:16:51",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10368888,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35879424999999,
+          26.922564611111113,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0154.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:15:46",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11862096,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35899688888888,
+          26.921690611111114,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0155.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:15:48",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11836213,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35903933333333,
+          26.92171527777778,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0177.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:16:43",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10740733,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35890283333333,
+          26.922522055555557,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0169.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:16:23",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11122116,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35908113888888,
+          26.922191861111113,
+          26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0199.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:18:04",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 9578199,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35873863888888,
+          26.92211316666667,
+          25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0182.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:16:56",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10582439,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35870283333333,
+          26.92252813888889,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0208.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:18:29",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 9388161,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35888277777777,
+          26.92200652777778,
+          24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0192.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:17:44",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 9981768,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35874013888888,
+          26.92194338888889,
+          25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0183.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:16:58",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10683679,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35865716666666,
+          26.922509722222223,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0209.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:18:32",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 9529734,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35885969444443,
+          26.922050472222224,
+          24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0184.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:17:01",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10884050,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35861363888888,
+          26.92249152777778,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0170.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:16:25",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11623050,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35905922222221,
+          26.92223225,
+          26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0176.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:16:40",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11309003,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35892547222221,
+          26.922480111111113,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0200.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:18:07",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10249998,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35876083333332,
+          26.9220715,
+          25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0207.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:18:27",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 9916802,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35890444444443,
+          26.921964527777778,
+          25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0195.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:17:52",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10488817,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35867352777777,
+          26.922072333333336,
+          25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0185.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:17:03",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11197439,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35856602777777,
+          26.922471722222223,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0216.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:18:52",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 9799790,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35890747222221,
+          26.922127361111112,
+          24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0171.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:16:28",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11987384,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35903463888889,
+          26.92227738888889,
+          26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0215.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:18:49",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 9917774,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35888516666667,
+          26.922169111111113,
+          24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0175.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:16:38",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11882107,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35894705555555,
+          26.922439194444447,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0189.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:17:13",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11458809,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35839797222222,
+          26.922403916666667,
+          28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0187.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:17:08",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11440097,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35847491666667,
+          26.922434833333334,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0186.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:17:06",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11410740,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35852041666666,
+          26.92245325,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0223.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:19:11",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 9761096,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35904716666666,
+          26.922028027777777,
+          24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0222.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:19:09",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 9821302,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35906577777777,
+          26.92199252777778,
+          25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0217.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:18:54",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10073547,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35892941666665,
+          26.922085305555555,
+          24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0172.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:16:30",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 12268448,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35901277777778,
+          26.922317583333335,
+          26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0188.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:17:11",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11434520,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35842866666665,
+          26.922415750000003,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0206.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:18:24",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10595041,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35892258333332,
+          26.921928944444446,
+          25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0218.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:18:57",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10093251,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35895205555555,
+          26.922041583333336,
+          24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0173.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:16:33",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 12401116,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35899088888888,
+          26.922358000000003,
+          26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0214.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:18:47",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10376123,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35886691666666,
+          26.922205583333334,
+          24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0174.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:16:35",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 12416726,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35896833333332,
+          26.9224,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0201.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:18:09",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11327352,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35878388888888,
+          26.922027583333335,
+          25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0219.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:19:00",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10572739,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35897525,
+          26.92199738888889,
+          25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0191.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:17:41",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11739768,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35876263888888,
+          26.92190038888889,
+          25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0210.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:18:35",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11119420,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35883811111111,
+          26.922092805555558,
+          24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0224.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:19:14",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10453971,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35902472222222,
+          26.922071722222224,
+          24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0220.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:19:02",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11130968,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35899708333332,
+          26.92195513888889,
+          25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0202.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:18:12",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 12068723,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35880583333332,
+          26.92198555555556,
+          25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0190.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:17:39",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 12838032,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35878519444444,
+          26.921856444444444,
+          25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0203.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:18:15",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 12212576,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35882858333333,
+          26.921941583333336,
+          25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0225.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:19:16",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11032014,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35900241666666,
+          26.922113777777778,
+          24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0211.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:18:37",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11950054,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3588151111111,
+          26.92213675,
+          24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0221.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:19:04",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11551209,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35902602777777,
+          26.92194061111111,
+          25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0205.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:18:20",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 12325608,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35888538888888,
+          26.921877194444445,
+          25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0196.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:17:55",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 12732996,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35865069444444,
+          26.92211602777778,
+          25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0204.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:18:17",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 12452223,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35885069444444,
+          26.921899222222223,
+          25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0213.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:18:42",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 12155901,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35879847222222,
+          26.922212222222225,
+          24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0212.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:18:40",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 12921533,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35879327777778,
+          26.922178722222224,
+          24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0197.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:17:57",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 13847642,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35864902777777,
+          26.922154666666668,
+          24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0226.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:19:19",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 12247616,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35898080555555,
+          26.92215652777778,
+          24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0244.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:20:21",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 8574496,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35867902777777,
+          26.92205488888889,
+          23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0241.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:20:13",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 8978739,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35882419444444,
+          26.922115027777778,
+          23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0240.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:20:10",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 9191395,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35887277777778,
+          26.92213527777778,
+          23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0243.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:20:18",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 8826347,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35872680555555,
+          26.922074611111114,
+          23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0242.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:20:16",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 9134573,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35877602777778,
+          26.922095277777778,
+          23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0239.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:20:08",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 9923204,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3589191111111,
+          26.92215463888889,
+          23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0229.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:19:26",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10929073,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35890205555555,
+          26.92224997222222,
+          24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0238.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:20:05",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10189926,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35895994444444,
+          26.92217063888889,
+          24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0230.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:19:43",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11044360,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35865127777777,
+          26.92212236111111,
+          24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0237.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:20:01",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10262673,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35896669444443,
+          26.922233972222223,
+          23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0245.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:20:23",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 8622023,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35866702777777,
+          26.922029222222225,
+          23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0236.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:19:59",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10683668,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35893966666666,
+          26.922242055555557,
+          23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0231.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:19:46",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11159833,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35869861111111,
+          26.922141777777778,
+          24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0227.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:19:22",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 12246720,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35895822222221,
+          26.922200305555556,
+          24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0228.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:19:24",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11406410,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35893438888888,
+          26.922241972222224,
+          24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0232.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:19:48",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11990414,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35874527777777,
+          26.922161000000003,
+          24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0248.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:20:32",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 9416627,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3588131111111,
+          26.922031500000003,
+          23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0235.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:19:56",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11886508,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35889061111111,
+          26.922220694444444,
+          23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0247.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:20:29",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 9523440,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35876455555555,
+          26.92201125,
+          23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0254.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:20:49",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 9428400,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35902358333333,
+          26.922041833333335,
+          24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0233.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:19:51",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 12538169,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35879397222222,
+          26.922180833333336,
+          24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0249.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:20:35",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 9678758,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35886016666666,
+          26.92205141666667,
+          23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0246.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:20:27",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10107342,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35872416666666,
+          26.921993166666667,
+          23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0253.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:20:44",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 9740415,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35903055555555,
+          26.92210327777778,
+          23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0234.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:19:54",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 12405009,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35884194444444,
+          26.92220013888889,
+          23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0255.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:20:51",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 9754372,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35898297222222,
+          26.92202513888889,
+          24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0250.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:20:37",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10472882,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35890688888888,
+          26.922071055555556,
+          23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0296.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:23:04",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 8554736,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35861886111111,
+          26.92212055555556,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0269.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:21:52",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 9861378,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35863180555555,
+          26.922101444444447,
+          24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0252.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:20:43",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10529093,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35900341666667,
+          26.922111305555557,
+          23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0270.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:21:54",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 9929770,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35864652777778,
+          26.922074055555555,
+          24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0271.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:21:56",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 9929166,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35866680555554,
+          26.922034333333336,
+          24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0256.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:20:54",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10441285,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35893605555555,
+          26.922005000000002,
+          24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0265.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:21:18",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10046852,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3589263611111,
+          26.921922944444447,
+          24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0272.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:21:59",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10074046,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3586885,
+          26.92199163888889,
+          24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0251.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:20:40",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10696452,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35895619444445,
+          26.92209113888889,
+          23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0285.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:22:32",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 9530453,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35904252777777,
+          26.922075,
+          23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0292.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:22:52",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 9298796,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35878619444443,
+          26.92220577777778,
+          24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0261.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:21:06",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10515956,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35873422222221,
+          26.921901000000002,
+          23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0266.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:21:21",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10379555,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35897374999999,
+          26.92194252777778,
+          23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0286.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:22:35",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 9595949,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35902305555555,
+          26.922115944444446,
+          23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0291.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:22:50",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 9325493,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35883172222222,
+          26.922223416666668,
+          24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0273.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:22:00",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10358027,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3587018611111,
+          26.921965694444445,
+          24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0280.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:22:17",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10166466,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35893013888888,
+          26.921898416666668,
+          24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0267.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:21:23",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10514712,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35902324999999,
+          26.921962750000002,
+          23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0281.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:22:21",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10164640,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35899691666665,
+          26.921928361111114,
+          24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0260.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:21:04",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10796123,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35874277777778,
+          26.92192463888889,
+          23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0290.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:22:47",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 9621995,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35887975,
+          26.922241361111112,
+          24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0287.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:22:38",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 9699745,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35899222222221,
+          26.92217877777778,
+          23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0284.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:22:30",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10006190,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35906175,
+          26.922033833333334,
+          23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0274.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:22:03",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10612258,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35872294444444,
+          26.921925305555558,
+          24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0293.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:22:56",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 9598214,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35871408333333,
+          26.92217775,
+          24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0288.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:22:41",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 9891766,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35897166666666,
+          26.922220000000003,
+          23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0289.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:22:43",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 9997977,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35895105555555,
+          26.922260972222222,
+          24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0282.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:22:23",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10352807,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35904205555555,
+          26.921949,
+          24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0279.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:22:15",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10668514,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35888516666667,
+          26.921878500000002,
+          24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0295.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:23:01",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 9699692,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35862138888888,
+          26.922142305555557,
+          24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0294.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:22:59",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 9851666,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35866963888888,
+          26.92216063888889,
+          24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0264.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:21:15",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11048493,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35887694444443,
+          26.9219025,
+          24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0275.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:22:05",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10900535,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35874427777777,
+          26.921884805555557,
+          24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0283.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:22:26",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 10369830,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35908594444444,
+          26.921970916666666,
+          23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0268.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:21:26",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11113752,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35906902777778,
+          26.92198830555556,
+          23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0257.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:20:56",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11533936,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35888675,
+          26.921984472222224,
+          23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0278.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:22:12",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11058021,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35884072222221,
+          26.921859222222224,
+          24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0263.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:21:13",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11575453,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35882977777777,
+          26.921883361111114,
+          24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0276.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:22:08",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11463274,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35876566666666,
+          26.92184361111111,
+          24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0277.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:22:10",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 11541094,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3587965,
+          26.92183575,
+          24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0259.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:21:02",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 12450889,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35879216666666,
+          26.92194525,
+          23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0258.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:20:59",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 12554379,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35883938888888,
+          26.921965083333333,
+          23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://garyrowe.co.uk/dp2Table/s3/images/DJI_0262.JPG",
+        "description": "default",
+        "date": "2022:10:04 12:21:10",
+        "make": "Hasselblad",
+        "model": "L1D-20c",
+        "size": 13026553,
+        "type": "image/jpeg",
+        "height": 3648,
+        "width": 5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35878958333333,
+          26.92186625,
+          24
+        ]
+      }
+    }
+  ]
+}

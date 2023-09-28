@@ -1,0 +1,775 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "title": "Bauchamps",
+        "subtitle": "Bauchamps High School sports hall",
+        "description": "",
+        "tags": "",
+        "createdby": 1,
+        "organisation": 2,
+        "lat": 51.61350597,
+        "lng": 0.54119256,
+        "created_at": "2022-02-01 00:00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.54119256,
+          51.61350597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "title": "Tortola",
+        "subtitle": "Claims on Tortola",
+        "description": "",
+        "tags": "",
+        "createdby": 2,
+        "organisation": 6,
+        "lat": 18.42849373,
+        "lng": -64.6233402,
+        "created_at": "2022-06-13 11:00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.6233402,
+          18.42849373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "title": "Perrywood Sudbury",
+        "subtitle": "",
+        "description": "",
+        "tags": "",
+        "createdby": 4,
+        "organisation": 3,
+        "lat": 52.0408636,
+        "lng": 0.77427858,
+        "created_at": "2022-09-13 12:55:56"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.77427858,
+          52.0408636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "title": "Shady Hills",
+        "subtitle": "",
+        "description": "",
+        "tags": "",
+        "createdby": 1,
+        "organisation": 6,
+        "lat": 28.36645002,
+        "lng": -82.55605203,
+        "created_at": "2022-09-14 10:05:54"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.55605203,
+          28.36645002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "title": "Englewood Beach & Yacht Club",
+        "subtitle": "",
+        "description": "",
+        "tags": "",
+        "createdby": 2,
+        "organisation": 6,
+        "lat": 26.92176393,
+        "lng": -82.35892098,
+        "created_at": "2022-10-19 13:37:33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35892098,
+          26.92176393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13,
+        "title": "845 East Gulf Drive",
+        "subtitle": "845 East Gulf Drive",
+        "description": "",
+        "tags": "",
+        "createdby": 2,
+        "organisation": 6,
+        "lat": 26.44185893,
+        "lng": -82.03611456,
+        "created_at": "2022-10-19 13:38:36"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.03611456,
+          26.44185893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 14,
+        "title": "1020 & 1036 Periwinkle Way",
+        "subtitle": "1020 & 1036 Periwinkle Way",
+        "description": "",
+        "tags": "",
+        "createdby": 2,
+        "organisation": 6,
+        "lat": 26.44686628,
+        "lng": -82.04128132,
+        "created_at": "2022-10-25 18:36:53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.04128132,
+          26.44686628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 15,
+        "title": "6520 & 6536 Pine Avenue",
+        "subtitle": "6520 & 6536 Pine Avenue",
+        "description": "",
+        "tags": "",
+        "createdby": 2,
+        "organisation": 6,
+        "lat": 26.48020293,
+        "lng": -82.17990645,
+        "created_at": "2022-10-25 18:38:25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.17990645,
+          26.48020293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 17,
+        "title": "261 Barefoot Beach Boulevard",
+        "subtitle": "261 Barefoot Beach Boulevard",
+        "description": "",
+        "tags": "",
+        "createdby": 2,
+        "organisation": 6,
+        "lat": 26.31555583,
+        "lng": -81.83910763,
+        "created_at": "2022-10-25 18:39:28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.83910763,
+          26.31555583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 18,
+        "title": "149 Barefoot Circle",
+        "subtitle": "149 Barefoot Circle",
+        "description": "",
+        "tags": "",
+        "createdby": 2,
+        "organisation": 6,
+        "lat": 26.32907911,
+        "lng": -81.84448511,
+        "created_at": "2022-10-25 18:39:37"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.84448511,
+          26.32907911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 19,
+        "title": "11421 Golden Eagle Court",
+        "subtitle": "11421 Golden Eagle Court",
+        "description": "",
+        "tags": "",
+        "createdby": 2,
+        "organisation": 6,
+        "lat": 26.28041782,
+        "lng": -81.63617384,
+        "created_at": "2022-10-25 18:39:45"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.63617384,
+          26.28041782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 20,
+        "title": "2701 Gulf Shore Boulevard North",
+        "subtitle": "2701 Gulf Shore Boulevard North",
+        "description": "",
+        "tags": "",
+        "createdby": 2,
+        "organisation": 6,
+        "lat": 26.17827735,
+        "lng": -81.81395477,
+        "created_at": "2022-10-25 18:39:58"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.81395477,
+          26.17827735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 21,
+        "title": "2551 Windward Way",
+        "subtitle": "2551 Windward Way",
+        "description": "",
+        "tags": "",
+        "createdby": 2,
+        "organisation": 6,
+        "lat": 26.17665526,
+        "lng": -81.8100931,
+        "created_at": "2022-10-25 18:40:13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8100931,
+          26.17665526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 23,
+        "title": "184 Tupelo Road",
+        "subtitle": "184 Tupelo Road",
+        "description": "",
+        "tags": "",
+        "createdby": 2,
+        "organisation": 6,
+        "lat": 26.24728591,
+        "lng": -81.79417205,
+        "created_at": "2022-10-25 18:40:31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.79417205,
+          26.24728591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 24,
+        "title": "666 3rd Street South",
+        "subtitle": "666 3rd Street South",
+        "description": "",
+        "tags": "",
+        "createdby": 2,
+        "organisation": 6,
+        "lat": 26.13892757,
+        "lng": -81.80327571,
+        "created_at": "2022-10-25 18:40:45"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.80327571,
+          26.13892757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25,
+        "title": "8990 Bay Colony Drive",
+        "subtitle": "8990 Bay Colony Drive",
+        "description": "",
+        "tags": "",
+        "createdby": 2,
+        "organisation": 6,
+        "lat": 26.24754847,
+        "lng": -81.81648078,
+        "created_at": "2022-10-25 18:40:56"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.81648078,
+          26.24754847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 26,
+        "title": "13925 Old Coast Road",
+        "subtitle": "13925 Old Coast Road",
+        "description": "",
+        "tags": "",
+        "createdby": 2,
+        "organisation": 6,
+        "lat": 26.2973702,
+        "lng": -81.82113252,
+        "created_at": "2022-10-25 18:41:04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.82113252,
+          26.2973702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 27,
+        "title": "8665 Bay Colony Drive",
+        "subtitle": "8665 Bay Colony Drive",
+        "description": "",
+        "tags": "",
+        "createdby": 2,
+        "organisation": 6,
+        "lat": 26.25052306,
+        "lng": -81.82129042,
+        "created_at": "2022-10-25 18:41:13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.82129042,
+          26.25052306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28,
+        "title": "4429 Club Estates Drive",
+        "subtitle": "4429 Club Estates Drive",
+        "description": "",
+        "tags": "",
+        "createdby": 2,
+        "organisation": 6,
+        "lat": 26.12746161,
+        "lng": -81.6892601,
+        "created_at": "2022-10-25 18:41:23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6892601,
+          26.12746161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 29,
+        "title": "508\u00a0Carica\u00a0Road",
+        "subtitle": "508\u00a0Carica\u00a0Road",
+        "description": "",
+        "tags": "",
+        "createdby": 2,
+        "organisation": 6,
+        "lat": 26.23697935,
+        "lng": -81.79229947,
+        "created_at": "2022-10-25 18:41:32"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.79229947,
+          26.23697935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 30,
+        "title": "235 Barefoot Beach Boulevard",
+        "subtitle": "235 Barefoot Beach Boulevard",
+        "description": "",
+        "tags": "",
+        "createdby": 2,
+        "organisation": 6,
+        "lat": 26.3218846,
+        "lng": -81.84078294,
+        "created_at": "2022-10-25 18:41:43"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.84078294,
+          26.3218846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 31,
+        "title": "12427 Twin Eagles Boulevard",
+        "subtitle": "12427 Twin Eagles Boulevard",
+        "description": "",
+        "tags": "",
+        "createdby": 2,
+        "organisation": 6,
+        "lat": 23.3006659,
+        "lng": -81.63194668,
+        "created_at": "2022-10-25 18:41:52"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.63194668,
+          23.3006659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 32,
+        "title": "1782 Menorca Court",
+        "subtitle": "1782 Menorca Court",
+        "description": "",
+        "tags": "",
+        "createdby": 2,
+        "organisation": 6,
+        "lat": 25.93889345,
+        "lng": -81.70025181,
+        "created_at": "2022-10-25 18:42:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.70025181,
+          25.93889345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 33,
+        "title": "419 Saddlebrook Lane",
+        "subtitle": "419 Saddlebrook Lane",
+        "description": "",
+        "tags": "",
+        "createdby": 2,
+        "organisation": 6,
+        "lat": 26.28623161,
+        "lng": -81.78505211,
+        "created_at": "2022-10-25 18:42:09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.78505211,
+          26.28623161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 36,
+        "title": "Loss Prevention Research Council",
+        "subtitle": "",
+        "description": "",
+        "tags": "",
+        "createdby": 2,
+        "organisation": 2,
+        "lat": 29.64928639,
+        "lng": -82.33373464,
+        "created_at": "2022-12-05 13:56:20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.33373464,
+          29.64928639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 39,
+        "title": "Gidea Park",
+        "subtitle": "Survey of points near Gidea Park station",
+        "description": "",
+        "tags": "",
+        "createdby": 5,
+        "organisation": 5,
+        "lat": 51.58722026,
+        "lng": 0.21916253,
+        "created_at": "2023-02-18 16:52:06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.21916253,
+          51.58722026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 40,
+        "title": "Bereshit Towers",
+        "subtitle": "",
+        "description": "",
+        "tags": "",
+        "createdby": 1,
+        "organisation": 2,
+        "lat": 32.0932009,
+        "lng": 34.79737461,
+        "created_at": "2023-03-31 10:55:10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.79737461,
+          32.0932009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 41,
+        "title": "Advance Auto Parts",
+        "subtitle": "1035 E University Ave, Gainesville, FL 32601",
+        "description": "",
+        "tags": "",
+        "createdby": 2,
+        "organisation": 6,
+        "lat": 29.65147314,
+        "lng": -82.31201354,
+        "created_at": "2023-09-08 17:53:15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.31201354,
+          29.65147314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 42,
+        "title": "AutoZone",
+        "subtitle": "1341 E University Ave, Gainesville, FL 32641",
+        "description": "",
+        "tags": "",
+        "createdby": 2,
+        "organisation": 6,
+        "lat": 29.65163775,
+        "lng": -82.30769143,
+        "created_at": "2023-09-08 17:57:24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.30769143,
+          29.65163775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 43,
+        "title": "Circle K",
+        "subtitle": "20 NE Waldo Rd, Gainesville, FL 32641",
+        "description": "",
+        "tags": "",
+        "createdby": 2,
+        "organisation": 6,
+        "lat": 29.65270393,
+        "lng": -82.31145325,
+        "created_at": "2023-09-08 17:57:40"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.31145325,
+          29.65270393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 44,
+        "title": "Dollar General",
+        "subtitle": "2400 SE Hawthorne Rd, Gainesville, FL 32641",
+        "description": "",
+        "tags": "",
+        "createdby": 2,
+        "organisation": 6,
+        "lat": 29.64565604,
+        "lng": -82.29366566,
+        "created_at": "2023-09-08 17:57:57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.29366566,
+          29.64565604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 45,
+        "title": "Family Dollar",
+        "subtitle": "2286 SE Hawthorne Rd, Gainesville, FL 32641",
+        "description": "",
+        "tags": "",
+        "createdby": 2,
+        "organisation": 6,
+        "lat": 29.64714208,
+        "lng": -82.29464987,
+        "created_at": "2023-09-08 17:58:14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.29464987,
+          29.64714208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 46,
+        "title": "Walgreens",
+        "subtitle": "1120 E University Ave, Gainesville, FL 32641",
+        "description": "",
+        "tags": "",
+        "createdby": 2,
+        "organisation": 6,
+        "lat": 29.6524905,
+        "lng": -82.31030674,
+        "created_at": "2023-09-08 17:58:29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.31030674,
+          29.6524905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47,
+        "title": "Walmart",
+        "subtitle": "1800 NE 12th Ave, Gainesville, FL 32641",
+        "description": "",
+        "tags": "",
+        "createdby": 2,
+        "organisation": 6,
+        "lat": 29.66400229,
+        "lng": -82.30106723,
+        "created_at": "2023-09-08 17:58:45"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.30106723,
+          29.66400229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 48,
+        "title": "Wawa",
+        "subtitle": "1007 E University Ave, Gainesville, FL 32601",
+        "description": "",
+        "tags": "",
+        "createdby": 2,
+        "organisation": 6,
+        "lat": 29.65158271,
+        "lng": -82.31283355,
+        "created_at": "2023-09-08 17:59:09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.31283355,
+          29.65158271
+        ]
+      }
+    }
+  ]
+}
