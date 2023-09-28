@@ -1,5 +1,5 @@
-import { useEffect, useState, useRef } from 'react'
-import * as $ from 'jquery'
+import React, { useEffect, useState, useRef } from 'react'
+import $ from 'jquery'
 import 'leaflet/dist/leaflet.css'
 import './app.css'
 import * as L from 'leaflet'
@@ -9,7 +9,7 @@ import { Feature, GeoJsonObject, Geometry } from 'geojson'
 import 'jQuery-QueryBuilder'
 import 'jQuery-QueryBuilder/dist/css/query-builder.default.css'
 import alasql from 'alasql'
-import 'tableexport'
+// import 'tableexport'
 
 const urlFormatter = (value: string | string[], row: any, index: any) => {
   if (
@@ -199,7 +199,7 @@ function SingleMenuView() {
 
   let geojson: { features: any }
 
-  let mapboxOSM = L.tileLayer(
+  const mapboxOSM = L.tileLayer(
     'https://api.mapbox.com/styles/v1/mapbox/streets-v12/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoiY3Jpc3BhZXJpYWwiLCJhIjoiY2p3M2Jocmw2MGV6eTQ0azNsZTZnMmNmbyJ9.QR6i6106sQVeLmckTrWFdQ',
     {
       maxZoom: 19,
@@ -209,7 +209,7 @@ function SingleMenuView() {
     }
   )
 
-  let highlightLayer = L.geoJson(undefined, {
+  const highlightLayer = L.geoJson(undefined, {
     pointToLayer: function (feature, latlng) {
       return L.circleMarker(latlng, {
         radius: 5,
@@ -232,7 +232,7 @@ function SingleMenuView() {
     },
   })
 
-  let featureLayer = L.geoJson(undefined, {
+  const featureLayer = L.geoJson(undefined, {
     filter: function (geoJsonFeature: Feature<Geometry, any>) {
       return (
         geoJsonFeature.geometry.coordinates[0] !== 0 &&
@@ -726,7 +726,7 @@ function SingleMenuView() {
     }
   })
 
-  let customControl = L.Control.extend({
+  const customControl = L.Control.extend({
     options: {
       position: 'topright', // Adjust the position as needed
     },
@@ -744,7 +744,7 @@ function SingleMenuView() {
     },
   })
 
-  let customControl2 = L.Control.extend({
+  const customControl2 = L.Control.extend({
     options: {
       position: 'topright', // Adjust the position as needed
     },
