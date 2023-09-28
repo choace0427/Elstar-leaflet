@@ -32,9 +32,9 @@ const Layout = () => {
     useLocale()
 
     const AppLayout = useMemo(() => {
-        if (authenticated) {
+        // if (authenticated) {
             return layouts[layoutType]
-        }
+        // }
         return lazy(() => import('./AuthLayout'))
     }, [layoutType, authenticated])
 
