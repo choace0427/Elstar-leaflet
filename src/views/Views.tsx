@@ -35,10 +35,10 @@ const AllRoutes = (props: AllRoutesProps) => {
                         key={route.key + index}
                         path={route.path}
                         element={
-                            <AuthorityGuard
-                                userAuthority={userAuthority}
-                                authority={route.authority}
-                            >
+                            // <AuthorityGuard
+                            //     userAuthority={userAuthority}
+                            //     authority={route.authority}
+                            // >
                                 <PageContainer {...props} {...route.meta}>
                                     <AppRoute
                                         routeKey={route.key}
@@ -46,7 +46,7 @@ const AllRoutes = (props: AllRoutesProps) => {
                                         {...route.meta}
                                     />
                                 </PageContainer>
-                            </AuthorityGuard>
+                            // </AuthorityGuard>
                         }
                     />
                 ))}
