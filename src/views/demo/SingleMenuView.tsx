@@ -11,21 +11,7 @@ import 'jQuery-QueryBuilder/dist/css/query-builder.default.css'
 import alasql from 'alasql'
 import 'tableexport'
 
-type Person = {
-  created_at: string
-  createdby: number
-  description: string
-  id: number
-  lat: number
-  lng: number
-  leaflet_stamp: number
-  organisation: number
-  subtitle: string
-  tags: string
-  title: string
-}
-
-const urlFormatter = (value: string | string[], _row: any, _index: any) => {
+const urlFormatter = (value: string | string[], row: any, index: any) => {
   if (
     typeof value === 'string' &&
     (value.indexOf('http') === 0 || value.indexOf('https') === 0)
@@ -223,26 +209,8 @@ function SingleMenuView() {
     }
   )
 
-  // var s3Tiles = L.tileLayer(
-  //   '/s3/ortho/{z}/{x}/{y}.png',
-  //   {
-  //     maxZoom: 26,
-  //     attribution: '© Datapoints2',
-  //   }
-  // )
-
-  // var mapboxSat = L.tileLayer(
-  //   'https://{s}.tiles.mapbox.com/v4/mapbox.streets-satellite/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoiZnVsY3J1bSIsImEiOiJjaXI1MHZnNGcwMW41ZnhucjNkOTB1cncwIn0.4ZADnELXGBXsN_RxnPK3Sw',
-  //   {
-  //     maxZoom: 19,
-  //     subdomains: ['a', 'b', 'c', 'd'],
-  //     attribution:
-  //       'Basemap <a href="https://www.mapbox.com/about/maps/" target="_blank">© Mapbox © OpenStreetMap</a>',
-  //   }
-  // )
-
   let highlightLayer = L.geoJson(undefined, {
-    pointToLayer: function (_feature, latlng) {
+    pointToLayer: function (feature, latlng) {
       return L.circleMarker(latlng, {
         radius: 5,
         color: '#FFF',
@@ -252,7 +220,7 @@ function SingleMenuView() {
         fillOpacity: 1,
       })
     },
-    style: function (_feature) {
+    style: function (feature) {
       return {
         color: '#00FFFF',
         weight: 2,
@@ -289,19 +257,19 @@ function SingleMenuView() {
     onEachFeature: function (feature, layer) {
       if (feature.properties) {
         layer.on({
-          click: function (_e) {
+          click: function () {
             identifyFeature(L.stamp(layer))
             highlightLayer.clearLayers()
             const geoJSONLayer = layer as L.GeoJSON
             highlightLayer.addData(geoJSONLayer.toGeoJSON())
           },
-          mouseover: function (_e) {
+          mouseover: function (e) {
             if (config.hoverProperty) {
               $('.info-control').html(feature.properties[config.hoverProperty])
               $('.info-control').show()
             }
           },
-          mouseout: function (_e) {
+          mouseout: function (e) {
             $('.info-control').hide()
           },
         })
@@ -540,10 +508,10 @@ function SingleMenuView() {
         },
         events: {
           'click .zoom': function (
-            _e: any,
-            _value: any,
+            e: any,
+            value: any,
             row: { leaflet_stamp: number },
-            _index: any
+            index: any
           ) {
             let targetLayer = featureLayer.getLayer(row.leaflet_stamp)
 
@@ -559,10 +527,10 @@ function SingleMenuView() {
             highlightLayer.addData(targetLayer.toGeoJSON())
           },
           'click .identify': function (
-            _e: any,
-            _value: any,
+            e: any,
+            value: any,
             row: { leaflet_stamp: number },
-            _index: any
+            index: any
           ) {
             identifyFeature(row.leaflet_stamp)
             highlightLayer.clearLayers()
@@ -780,7 +748,7 @@ function SingleMenuView() {
     options: {
       position: 'topright', // Adjust the position as needed
     },
-    onAdd: function (_map: any) {
+    onAdd: function (map: any) {
       var container = L.DomUtil.create('div', 'custom-button')
       container.innerHTML = '<i class="fa fa-filter"></i> '
       container.onclick = function () {
