@@ -50,7 +50,7 @@ const AllRoutes = (props: AllRoutesProps) => {
                         }
                     />
                 ))}
-                <Route path="*" element={<Navigate replace to="/" />} />
+                {/* <Route path="*" element={<Navigate replace to="/" />} /> */}
             </Route>
             {/* <Route path="/" element={<PublicRoute />}>
                 {publicRoutes.map((route) => (
