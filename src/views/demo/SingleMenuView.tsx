@@ -9,7 +9,6 @@ import { Feature, GeoJsonObject, Geometry } from 'geojson'
 import 'jQuery-QueryBuilder'
 import 'jQuery-QueryBuilder/dist/css/query-builder.default.css'
 import alasql from 'alasql'
-// import 'tableexport'
 
 const urlFormatter = (value: string | string[], row: any, index: any) => {
   if (
