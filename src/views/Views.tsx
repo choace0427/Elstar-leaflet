@@ -66,8 +66,8 @@ const AllRoutes = (props: AllRoutesProps) => {
                             />
                         }
                     />
-                ))} */}
-            </Route>
+                ))}
+            </Route> */}
         </Routes>
     )
 }
