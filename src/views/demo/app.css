@@ -119,6 +119,14 @@ html, body {
   background-color: #6c757d;
 }
 
+.rules-group-header .btn-group {
+  background-color: #198754;
+}
+
+.rule-header .btn-group {
+  background-color: #dc3545;
+}
+
 @media (max-width: 992px) {
   .navbar .navbar-brand {
     font-size: 18px;

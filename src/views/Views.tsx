@@ -46,7 +46,7 @@ const AllRoutes = (props: AllRoutesProps) => {
                                         {...route.meta}
                                     />
                                 </PageContainer>
-                            // </AuthorityGuard>
+                            </AuthorityGuard>
                         }
                     />
                 ))}

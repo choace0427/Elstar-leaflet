@@ -409,9 +409,7 @@ function SingleMenuView() {
 
   const applyFilter = () => {
     var query = 'SELECT * FROM ?'
-    let QueryBuilderElement = document.getElementById('query-builder')
-    if (QueryBuilderElement)
-      var sql = $(QueryBuilderElement).queryBuilder('getSQL', false, false).sql
+    let sql = $("#query-builder").queryBuilder('getSQL', false, false).sql;
     if (sql.length > 0) {
       query += ' WHERE ' + sql
     }
