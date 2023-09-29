@@ -50,7 +50,6 @@ function useAuth() {
                     )
                 }
                 const redirectUrl = query.get(REDIRECT_URL_KEY)
-                console.log('adfsdfasfdasd', redirectUrl)
                 navigate(
                     redirectUrl ? redirectUrl : appConfig.authenticatedEntryPath
                 )
