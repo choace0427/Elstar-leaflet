@@ -9,6 +9,11 @@ import { Feature, GeoJsonObject, Geometry } from 'geojson'
 import 'jQuery-QueryBuilder'
 import 'jQuery-QueryBuilder/dist/css/query-builder.default.css'
 import alasql from 'alasql'
+import { TableExport } from 'tableexport'
+import 'tableexport.jquery.plugin'
+import * as XLSX from 'xlsx'
+import { jsPDF } from 'jspdf'
+import html2pdf from 'html2pdf.js'
 
 const urlFormatter = (value: string | string[], row: any, index: any) => {
   if (
@@ -409,7 +414,7 @@ function SingleMenuView() {
 
   const applyFilter = () => {
     var query = 'SELECT * FROM ?'
-    let sql = $("#query-builder").queryBuilder('getSQL', false, false).sql;
+    let sql = $('#query-builder').queryBuilder('getSQL', false, false)
     if (sql.length > 0) {
       query += ' WHERE ' + sql
     }
@@ -435,49 +440,6 @@ function SingleMenuView() {
 
   $('#extent-btn').click(function () {
     map.fitBounds(featureLayer.getBounds())
-    $('.navbar-collapse.in').collapse('hide')
-    return false
-  })
-
-  $('#download-csv-btn').click(function () {
-    $('#table').tableExport({
-      type: 'csv',
-      ignoreColumn: [0],
-      fileName: 'data',
-    })
-    $('.navbar-collapse.in').collapse('hide')
-    return false
-  })
-
-  $('#download-excel-btn').click(function () {
-    $('#table').tableExport({
-      type: 'excel',
-      ignoreColumn: [0],
-      fileName: 'data',
-    })
-    $('.navbar-collapse.in').collapse('hide')
-    return false
-  })
-
-  $('#download-pdf-btn').click(function () {
-    $('#table').tableExport({
-      type: 'pdf',
-      ignoreColumn: [0],
-      fileName: 'data',
-      jspdf: {
-        format: 'bestfit',
-        margins: {
-          left: 20,
-          right: 10,
-          top: 20,
-          bottom: 20,
-        },
-        autotable: {
-          extendWidth: false,
-          overflow: 'linebreak',
-        },
-      },
-    })
     $('.navbar-collapse.in').collapse('hide')
     return false
   })
@@ -621,7 +583,7 @@ function SingleMenuView() {
         let targetLayer = featureLayer.getLayer(row.leaflet_stamp)
 
         if (targetLayer.getLatLng) {
-          map.setView(targetLayer.getLatLng(), 24)
+          map.setView(targetLayer.getLatLng(), 22)
         } else if (targetLayer.getBounds) {
           map.fitBounds(targetLayer.getBounds())
         }
@@ -760,6 +722,56 @@ function SingleMenuView() {
     },
   })
 
+  const exportTable = (type: string) => {
+    if (type === 'CSV') {
+      let table = new TableExport(document.getElementById('table'), {
+        formats: ['csv'],
+        filename: 'data',
+        ignoreCols: [0],
+      })
+
+      let exportData = table.getExportData()['table'].csv.data
+      const csvContent = 'data:text/csv;charset=utf-8,' + exportData
+      const encodedUri = encodeURI(csvContent)
+      const link = document.createElement('a')
+      link.setAttribute('href', encodedUri)
+      link.setAttribute('download', 'data.csv')
+      document.body.appendChild(link)
+      link.click()
+    } else if (type === 'Excel') {
+      let table = new TableExport(document.getElementById('table'), {
+        formats: ['xlsx'],
+        filename: 'data',
+        ignoreCols: [0],
+      })
+
+      let exportData = table.getExportData()['table'].xlsx.data
+      const worksheet = XLSX.utils.json_to_sheet(exportData)
+      const workbook = XLSX.utils.book_new()
+      XLSX.utils.book_append_sheet(workbook, worksheet, 'Sheet1')
+      const excelBuffer = XLSX.write(workbook, {
+        bookType: 'xlsx',
+        type: 'array',
+      })
+
+      const blob = new Blob([excelBuffer], {
+        type: 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet',
+      })
+      const url = URL.createObjectURL(blob)
+
+      const link = document.createElement('a')
+      link.href = url
+      link.download = 'data.xlsx'
+      link.click()
+    } else if (type === 'PDF') {
+      const $table = $('#table')
+
+      const element = $table.get(0)
+
+      html2pdf().set({ html2pdf: jsPDF }).from(element).save('data.pdf')
+    }
+  }
+
   return (
     <>
       <div id="loading-mask" className="modal-backdrop">
@@ -839,7 +851,12 @@ function SingleMenuView() {
                 </button>
                 <ul className="dropdown-menu">
                   <li>
-                    <a className="dropdown-item" href="#" id="download-csv-btn">
+                    <a
+                      className="dropdown-item"
+                      href="#"
+                      id="download-csv-btn"
+                      onClick={() => exportTable('CSV')}
+                    >
                       <i className="fa fa-file-csv"></i> CSV
                     </a>
                   </li>
@@ -848,12 +865,18 @@ function SingleMenuView() {
                       className="dropdown-item"
                       href="#"
                       id="download-excel-btn"
+                      onClick={() => exportTable('Excel')}
                     >
                       <i className="fa fa-file-excel"></i> Excel
                     </a>
                   </li>
                   <li>
-                    <a className="dropdown-item" href="#" id="download-pdf-btn">
+                    <a
+                      className="dropdown-item"
+                      href="#"
+                      id="download-pdf-btn"
+                      onClick={() => exportTable('PDF')}
+                    >
                       <i className="fa fa-file-pdf"></i> PDF
                     </a>
                   </li>
